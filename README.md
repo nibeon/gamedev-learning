@@ -1,2 +1,2 @@
 # gamedev-learning
-learning gamedev on lua, python and some others languages
+learning gamedev on various languages, libraries, frameworks and engines.
