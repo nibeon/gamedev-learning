@@ -1,3 +1,6 @@
+# using pygame-zero 1.2
+# by this tutorial - https://simplegametutorials.github.io/pygamezero/eyes/
+
 import pygame
 import math
 
